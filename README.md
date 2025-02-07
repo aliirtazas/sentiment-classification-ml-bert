@@ -9,22 +9,21 @@ Implementation of Naive Bayes and Logistic Regression for sentiment classificati
 Fine-tuning BERT for advanced sentiment analysis
 Comprehensive performance evaluation and error analysis
 
-**Results Summary:**
---------------------------------------------
-| Model                        | Accuracy  |
---------------------------------------------
-| Naïve Bayes                  | 0.6555    |
-| Logistic Regression           | 0.6861    |
---------------------------------------------
-| Baseline (Random DistilBERT)  | 0.3045    |
-| Manually Trained Model        | 0.7290    |
---------------------------------------------
-| DistilBERT Pre-trained        | 0.2882    |
-| DistilBERT Fine-tuned         | 0.7861    |
---------------------------------------------
-| BERT Pre-trained              | 0.4175    |
-| BERT Fine-tuned               | 0.7931    |
---------------------------------------------
+## **Results Summary**
+
+| Model                          | Accuracy |
+|--------------------------------|----------|
+| **Naïve Bayes**                | 0.6555   |
+| **Logistic Regression**        | 0.6861   |
+|--------------------------------|----------|
+| **Baseline (Random DistilBERT)** | 0.3045   |
+| **Manually Trained Model**      | 0.7290   |
+|--------------------------------|----------|
+| **DistilBERT Pre-trained**      | 0.2882   |
+| **DistilBERT Fine-tuned**       | 0.7861   |
+|--------------------------------|----------|
+| **BERT Pre-trained**            | 0.4175   |
+| **BERT Fine-tuned**             | 0.7931   |
 
 **Key Insights:
 **
